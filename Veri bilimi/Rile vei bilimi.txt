@@ -1,0 +1,71 @@
+Veri: Cihazlarımız tarafından yapılan işlemleri programların tarafından algılanabilmesi ve işlenebilmesini sağlanabilmek amacıyla formüle edilmesidir.
+1.soru:
+2.soru: Siber güvenlik
+veri --> Bilgi:
+Veriler toplandıktan sonra gruplanarak, sıralanarak ve özetlenerek, kişiler aracılığıyla ya da bilgisayarlarla işlenip bilgiye dönüştürüldüklerinde anlam kazanmaktalar. Problem çözme ya da kara verme gibi bir amaca hizmet edebilecek duruma gelmektedir.
+örnek Veri1:
+Bir okuldaki tüm öğrencilerin sınavdan aldıkları not.
+Veri1 ---> Bilgi1:
+Sınav notlarının ortalaması.
+
+-------------
+Terimler:
+Büyük veri analitiği:
+Modelleri ve diğer yararlı bilgileri keşfetmek için büyük veri kümelerini toplama, düzenleme ve analiz etme sürecine denir. Milyonlarca veri söz konusudur.
+-----------------
+2.Ders
+Veri Türleri:
+Nicel Veri: Sayılardan oluşur.
+aritmetik işlemler yapılabilir.  Yaşlar, nüfus vb. Nesnellik ön planda. 
+Nitel Veri: verinin sayısal olmayan gruplara bölünmesiyle oluşur. Cinsiyet, En fazla kullanılan isimler vb. Gözlem , görüşme gibi araştırma yöntemleri kullanılır, genelde
+sosyal bilimlerde kullanılır
+ Nicel veriler kesikli ve sürekli, Nitel veriler: sıralı ve sırası olarak ikiye ayrılır.
+------------
+3.Ders
+Veri Toplama Yöntemleri:
+İşlem Verileri: Anlamlı bilgileri üretmek içim veri öğelerinin toplanması ve sonuç ortaya çıkarması.
+Web verileri: İnternetten çekebileceğimiz her türlü veriyi ifade eden bir terimdir.
+Sensör Verileri: Nesneler tarafından üretilir ve genellikle IOT olarak adlandırılır.
+Nitel Araştırmada Veri Analizi:
+Verilerin kalite  bilgisi kelimelerden, nesnelerden ve bazen görüntülerden oluşur.
+Nicel Araştırmada Veri Analizi:
+Nicel istatistiksel araştırma için, araştırmacı rakamların gücünden yararlanır.
+Korelasyon : olasılık kuramı ile beraber istatistikte iki ya da daha fazla değişken arasında doğrusal ilişkinin yönünü ve gücünü göstermek amaçlı tabir edilebilir.
+--------
+5.Ders
+Veri tabanı Nedir: Birbiriyle ilişkili bilgilerin, verilerin, analizlerin depolandığı alana verilen isimdir.
+-----------------
+6.Ders
+Veri Tabanı Yönetim Sistemi:
+veri tabanlarına ilişkin gözetim ve kontrol faaliyetlerini kolaylaştırır. Bu sayede performans izleme, yedekleme ve kurtarma vb. yönetim organizasyonlarının gerçekleştirebilmesini sağlar. Veri tabanı yönetim sistemi, veri tabanın oluşturulması ve devam ettirilmesi için ihtiyaç duyulan yazılım paketleridir.
+-------------
+7.Ders
+En çok kullanılan veri tabanı sistemleri.
+MYSQL:
+Oracle:
+PostgreSQL:
+----------------
+8.Ders
+Veri Merkezleri:
+Bilgisayar sistemleri ile veri ambarı sistemleri gibi ek sistemleri barındıran bir tesisten oluşur.
+----------------
+9.Ders
+Veri Bilimi Nedir: yapılandırılmış ve yapılandırılmamış verilerden bilgi, anlam, sonuç, öngörü elde etmek için bilimsel yöntemleri, analiz yöntemlerini, algoritmaları ve sistemleri kullanan çok disiplinli bir alandır.
+Veri bilimi, veri akışının artması nedeniyle de birlikte gelişen teknolojilerin gücünden faydalanır. Şirketlerin karar alma süreçlerini yönetir ve veriden anlamlı sonuçlar üretilmesini sağlar.
+Veri bilimci:
+Geçmişteki ya da anlık verileri kullanarak gelecekle ilgili tahminleri kuran, yazılım ve programları aracılığıyla bu verileri yorumlayan, sonuçlar çıkartan, verileri görselleştiren, hikayeleştirerek anlatan, bilgi ve çözüm odaklı kişidir.
+----------------------
+Ders 14:
+Veri bilimi araçları:
+R, SQL, Python
+-----------------
+Ders 15:
+Hangi alanlarda veri bilimi kullanılıyor:
+Havayolu, tıp, finans, iletişim, Medya, Okullar, Satış Pazarlama
+------------
+Ders 16:
+Kariyer Alanları:-->
+Veri Analisti:
+Makine öğrenim Mühendisi:
+Veri Mühendisi:
+Veri Bilimci:
