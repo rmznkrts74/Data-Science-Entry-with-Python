@@ -21,6 +21,7 @@ x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.33,random_state=1
 
 ####SCALING########
 from sklearn.preprocessing import MinMaxScaler
+from  tensorflow.keras.models import Sequential
 scaler=MinMaxScaler()
 scaler.fit(x_train)
 x_train=scaler.transform(x_train)
